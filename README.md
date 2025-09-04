@@ -13,6 +13,6 @@ Setiap pertemuan dikelompokkan dalam folder terpisah agar lebih terstruktur dan 
 ---
 
 ## Author
-Nama : Muhammad Afif Naufal
-NIM : 0110223240
-Program Studi : Teknik Informatika
+- Nama : Muhammad Afif Naufal
+- NIM : 0110223240
+- Program Studi : Teknik Informatika
