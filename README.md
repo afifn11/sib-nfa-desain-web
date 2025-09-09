@@ -6,10 +6,11 @@ Setiap pertemuan dikelompokkan dalam folder terpisah agar lebih terstruktur dan 
 ---
 
 ## Daftar Pertemuan
-- **Pertemuan 1** → Web Standar Pengenalan HTML 
+- **Pertemuan 1** → Introduction to HTML Web Standards 
 - **Pertemuan 2** → Multimedia, Table, Hyperlink  
 - **Pertemuan 3** → Form and Frame
 - **Pertemuan 4** → Styling CSS
+- **Pertemuan 5** → Layout Techniques With CSS
 
 ---
 
