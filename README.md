@@ -11,6 +11,7 @@ Setiap pertemuan dikelompokkan dalam folder terpisah agar lebih terstruktur dan 
 - **Pertemuan 3** → Form and Frame
 - **Pertemuan 4** → Styling CSS
 - **Pertemuan 5** → Layout Techniques With CSS
+- **Pertemuan 6** → Responsive Web Design
 
 ---
 
